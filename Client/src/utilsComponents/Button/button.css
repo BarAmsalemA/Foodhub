@@ -1,0 +1,12 @@
+.btn{
+    padding: 5px 3px;
+    margin: 15px;
+
+    background-color: blue;
+    transition: all 1s ease;
+}
+
+.btn:hover{
+    box-shadow: 5px 5px 5px black;
+    transition: all 1s ease;
+}
